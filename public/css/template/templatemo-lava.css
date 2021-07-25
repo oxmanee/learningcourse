@@ -657,9 +657,10 @@ welcome
   width: 100%;
   height: 100vh;
   min-height: 793px;
-  background-image: url(../.././image/template/banner-bg.png);
+  background-image: url(../.././image/template/banner-bg3.png);
   background-repeat: no-repeat;
   background-position: right top;
+  background-size: cover;
 }
 
 .welcome-area .header-text .left-text {

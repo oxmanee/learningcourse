@@ -91,9 +91,7 @@ https://templatemo.com/tm-540-lava-landing-page
                 <div class="row">
                     <div class="left-text col-lg-6 col-md-12 col-sm-12 col-xs-12"
                         data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                        <h1>Simple App that we <em>CREATE</em></h1>
-                        <p>Lava <a href="#">HTML landing page</a> template is provided by <a href="#">TemplateMo</a>.
-                           You can modify and use it for your commercial websites for free of charge. This template is last updated on 29 Oct 2019.</p> 
+                        <h1>พัฒนาองค์กรให้ขึ้นด้วย <em>SolutionPro</em></h1>
                         <a href="#about" class="main-button-slider">KNOW US BETTER</a>
                     </div>
                 </div>
@@ -113,8 +111,8 @@ https://templatemo.com/tm-540-lava-landing-page
                         <div class="features-icon">
                             <h2>01</h2>
                             <img src="image/template/features-icon-1.png" alt="">
-                            <h4>Trend Analysis</h4>
-                            <p>Curabitur pulvinar vel odio sed sagittis. Nam maximus ex diam, nec consectetur diam.</p>
+                            <h4>ประหยัดเวลา</h4>
+                            <p>เรารวบรวมชุดเอกสารสำคัญที่จะช่วยให้คุณเข้าใจและพัฒนาองค์กรของคุณได้อย่างรวดเร็ว</p>
                             <a href="#testimonials" class="main-button">
                                 Read More
                             </a>
@@ -127,8 +125,8 @@ https://templatemo.com/tm-540-lava-landing-page
                         <div class="features-icon">
                             <h2>02</h2>
                             <img src="image/template/features-icon-2.png" alt="">
-                            <h4>Site Optimization</h4>
-                            <p>Curabitur pulvinar vel odio sed sagittis. Nam maximus ex diam, nec consectetur diam.</p>
+                            <h4>สะดวกและง่ายต่อการใช้งาน</h4>
+                            <p>เรามีคำแนะนำการใช้งานชุดเอกสารให้กับคุณ เพื่อให้คุณสามารถทำตามได้อย่างง่ายดาย</p>
                             <a href="#testimonials" class="main-button">
                                 Discover More
                             </a>
@@ -141,8 +139,8 @@ https://templatemo.com/tm-540-lava-landing-page
                         <div class="features-icon">
                             <h2>03</h2>
                             <img src="image/template/features-icon-3.png" alt="">
-                            <h4>Email Design</h4>
-                            <p>Curabitur pulvinar vel odio sed sagittis. Nam maximus ex diam, nec consectetur diam.</p>
+                            <h4>ประหยัดค่าใช้จ่าย</h4>
+                            <p>คุณไม่จำเป็นต้องเสียเงินไปจ้างคอร์สอบรมราคาแพง เพราะคุณสามารถทำได้ด้วยตัวเอง</p>
                             <a href="#testimonials" class="main-button">
                                 More Detail
                             </a>
@@ -162,7 +160,7 @@ https://templatemo.com/tm-540-lava-landing-page
             <div class="row">
                 <div class="left-image col-lg-5 col-md-12 col-sm-12 mobile-bottom-fix-big"
                     data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                    <img src="image/template/left-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
+                    <!-- <img src="image/template/left-image.png" class="rounded img-fluid d-block mx-auto" alt="App"> -->
                 </div>
                 <div class="right-text offset-lg-1 col-lg-6 col-md-12 col-sm-12 mobile-bottom-fix">
                     <ul>
